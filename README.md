@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferhat!</h1>
-<h3 align="center">A passionate physicist from Türkiye</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1153297/screenshots/6821461/11_man_2-making-of-dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogut98&label=Profile%20views&color=0e75b6&style=flat" alt="ogut98" /> </p>
